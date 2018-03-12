@@ -5,8 +5,5 @@
   "main": "index.js",
   "repository": "https://github.com/sadikay/turbolinks-content-loader",
   "author": "Sadik Ay",
-  "license": "MIT",
-  "dependencies": {
-    "turbolinks": "^5.0.0"
-  }
+  "license": "MIT"
 }
